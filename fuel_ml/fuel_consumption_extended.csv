@@ -1,0 +1,11 @@
+speed_kmh,fuel_consumption_l_per_100km,trip_time_min,engine_type
+20,9.0,300.0,petrol
+30,7.8,200.0,petrol
+40,6.5,150.0,diesel
+50,6.1,120.0,diesel
+60,6.3,100.0,petrol
+70,6.0,85.71428571428572,diesel
+80,6.7,75.0,petrol
+90,6.8999999999999995,66.66666666666667,diesel
+100,8.0,60.0,petrol
+110,8.799999999999999,54.54545454545455,diesel
