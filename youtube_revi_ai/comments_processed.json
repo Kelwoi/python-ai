@@ -1,0 +1,846 @@
+[
+    {
+        "original_comment": "проду будь ласка",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Супер хочу і собі такого",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Ти в одній і тій же кофті ходив і чекав коли він \"типу\" тобі зателефонує?)))\n\nТехнічні несправності  вирішується топливом і поліроллю 😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "В тебе голос, як в 10-літнього хлопця, який веде діалог😂",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Машинка черепашок-ніндзя! Успіхів у проєкті!",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "тест перекуп 80 уровня пройден😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "2",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Давайте ще такі відоси просто имба мені подобається така тема",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Бус крутий клас",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Головна аудиторія відео це точно ТЦК😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "11:30 боже, назвати калюжу невеликою річкою, ну це мистецтво звісно",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "ДУЖЕ крутий проєкт, про який я дуже давно сам мріяв. Зичу якнайшвидшого та крутого завершення з цим бусом. З нетерміння буду чекати на наступні випуски))",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "топ бус😊",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "вай)",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Бусан бомба",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Цікаво через що проектуєте 3dmax чи pro100?",
+        "cleaned_comment": "dmax pro",
+        "tokens": [
+            "dmax",
+            "pro"
+        ],
+        "tokens_without_stopwords": [
+            "dmax",
+            "pro"
+        ],
+        "stemmed_tokens": [
+            "dmax",
+            "pro"
+        ],
+        "lemmatized_tokens": [
+            "dmax",
+            "pro"
+        ]
+    },
+    {
+        "original_comment": "Нарешті нормальна озвучка 🎉",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Бус типу повнопривідний?",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "у моего папы была такая  она была во чень хорошом состянии и мв ие продали тоже за 1 к но вложена вние намного больше",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "О новий відос імба",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Нове відео дуже цікаве❤",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "прикольне відео",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "2:02 Ну я ще у тому дописі казав же що це Nissan валета а ви  не вірили",
+        "cleaned_comment": "nissan",
+        "tokens": [
+            "nissan"
+        ],
+        "tokens_without_stopwords": [
+            "nissan"
+        ],
+        "stemmed_tokens": [
+            "nissan"
+        ],
+        "lemmatized_tokens": [
+            "nissan"
+        ]
+    },
+    {
+        "original_comment": "Давайте на цьому бусі 🚌 1,000 км до моря 🌊",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Як я цього чекав, незатримуйте наступну серію бо вже всі в очікуванні❤",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "За 3000$ уйдёд/2800",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "класний проект!",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Це той контент що я шукав роками)",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Відео супер,чекаю другу серію з нетерпінням p.s наклейка не тцк обовязково😅",
+        "cleaned_comment": "ps",
+        "tokens": [
+            "ps"
+        ],
+        "tokens_without_stopwords": [
+            "ps"
+        ],
+        "stemmed_tokens": [
+            "ps"
+        ],
+        "lemmatized_tokens": [
+            "ps"
+        ]
+    },
+    {
+        "original_comment": "\"не великі навички?\" не вірю!",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "ого 100 доларів в мене хата 100 доларів в місять",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Це найцікавіший випуск. Дивимось випуски всією сімʼєю і дуже чекаємо другої частини🔥🔥🔥",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "додай надпис (НЕ ТЦК)",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Двигун помий буде гарніше",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Лайфхак: спробуй очищення бітуму звичайною соняшниковою олією, результат тебе здивує і не треба ніякої хімії.",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "роби більше відео по цій автівці",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "тцк прогресирує",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "👍👍👍",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Скоро знімеш ті лампочки зверху, до першого патруля.Це  додатково встановлене світло не передбачене конструцією тз",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Я хребу за лобовушка майже 10 к гривень відати я би ліпше сам би замінив там немає такого тяжкогг",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Дякую за відео дууууууже класне можна другу частину",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Даже цікаво ! Не зупиняйтесь хлопці !!!",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Подивись мотор клапана, поршні та почисти мотор та заполіруй",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "коли 2 серіяяяяяяяяя",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "красава гарна ідея",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Тачка на прокачку",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "14:04 та хто ж так губкою миє, фарбу подряпаєш",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Чекаю не можу дочикатися нового відео коли 2 серія?",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Невже грошей так мало було на купівлю такого буса, як же трейдинг і активи, ну то в принципі таке, інша сфера 😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Відосик кайф повний",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Класс так тримати",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "я чекаю наступні серії",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Колись я обгоню вас",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "1:48 ех, весь кайф обламали 😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "надіюсь що бус не зламається",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Лайк за видос и роботу молодец",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Я дивлюся а тут 5 годин тому відео було зроблено🎉",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Кайф , давай продовження , можу попросити довші відоси?)",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "круто вийшло👍",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "22:26 Машина часу з Ніссана?",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Молодець 😊😊😊 так Тримати 👍",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "краска на дисках слезет",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Класна історія жаль брехня, це їх норм ціна без проблем з штрафами",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Чекаєм продовження!😊",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Я теж їжджу бусом іскажу супер ❤",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "продолжай, очень нрав.",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "12:30 - ніби то комар над вухом о третій годині ночі",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Ого, оце так проект, дякую за класний відос",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "5:31 опалачужмо проїзд!\n😂😂😂",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Норм, я і сам би такий взяв за 1000$)",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "19:50\nстарі виглядали краще бо вони більші",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Поскоріше б продовження",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Його посмішка надихає❤",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "х зибит ты ли это?",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Можна 2 частину",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "14:14 бітум добре вд 40 розчинняє.",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Мотор LD20?",
+        "cleaned_comment": "ld",
+        "tokens": [
+            "ld"
+        ],
+        "tokens_without_stopwords": [
+            "ld"
+        ],
+        "stemmed_tokens": [
+            "ld"
+        ],
+        "lemmatized_tokens": [
+            "ld"
+        ]
+    },
+    {
+        "original_comment": "Дуже круто із задоволеням чекаю продовженя",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Гарна робота! Дуже цікавий контент, жду продовження :)",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Гарний проєкт, цікаво тільки чому ви не включили ціну штрафу до суми?",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Дуже класне відео ❤ хотів якусь пораду порадити але ще не придумав",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "крутой формат )) жду продолжение",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "2:25 не живуть, бо насіння б вже там не було б😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Ремонт і оснащення буса називається - бусифікація.",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Бус з села Матеївці Коломийський район",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "\"Perfect🎉\", - написав я на початку, але додивившись до кінця - це просто неймовірно!",
+        "cleaned_comment": "perfect",
+        "tokens": [
+            "perfect"
+        ],
+        "tokens_without_stopwords": [
+            "perfect"
+        ],
+        "stemmed_tokens": [
+            "perfect"
+        ],
+        "lemmatized_tokens": [
+            "perfect"
+        ]
+    },
+    {
+        "original_comment": "Стало краще ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "поки що виглядає реально класно і дуже прошу афтора щоб надалі все було так само круто а не зробити в салоні якийсь колхоз",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Годноту підвезли! Тільки чел, давай хоч раз в тиждень відос новий!",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "На завершенні даного ролика, влаштуйте оргію, буде цікаво на скільки гарно все вийшло, тому обов'язково запишіть собі в блокнотик 😏",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Відео свіжіше за хліб в пекарні",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "влаштувався в тцк ігор як так",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Давайте продолжение молодцы",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Не забудь добавити табличку \"НЕ ТЦК\" 😅",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Класний бус, поки я просто моніторю бус на олх під автодім, ви беретеьі робите) молодці",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Японія і Китай співпрацює з Росією",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Коли буде друга половина",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Гарна тачка. для подорожі і для військових супер.",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "Але такі відео очі радують коли дають 2-ге життя автомобілю, Красавчик💪",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    },
+    {
+        "original_comment": "А чому не додали штрафи?",
+        "cleaned_comment": "",
+        "tokens": [],
+        "tokens_without_stopwords": [],
+        "stemmed_tokens": [],
+        "lemmatized_tokens": []
+    }
+]
